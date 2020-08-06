@@ -1,1 +1,1 @@
-### This is a simple repo created for practice for Lightning Web Basics
+### This is a simple repo created for practice of Lightning Web Basics
